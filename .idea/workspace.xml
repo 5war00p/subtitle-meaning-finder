@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85f8332b-0403-497b-a499-9bbceee796d8" name="Default Changelist" comment="" />
+    <list default="true" id="85f8332b-0403-497b-a499-9bbceee796d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/level.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/subtitle-meaning-finder" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1u9JLNoImZRbaVY8YWFRsD63G7Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,11 +178,19 @@
       <workItem from="1624972413279" duration="2634000" />
       <workItem from="1625012533728" duration="124000" />
       <workItem from="1625027327019" duration="704000" />
+      <workItem from="1625207338937" duration="2041000" />
+      <workItem from="1625384864369" duration="923000" />
+      <workItem from="1625398595143" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/subtitle-meaning-finder" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624968716846">
@@ -200,21 +213,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="442" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1625028030745" />
-    <state x="778" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1625027329734">
+    <state x="279" y="63" key="SettingsEditor" timestamp="1625209303719">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="778" y="366" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1625027329734" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dictionary.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="279" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625209303719" />
+    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1625398595682">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1625398595682" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SummerProject$main.coverage" NAME="main Coverage Results" MODIFIED="1624974967284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -19,7 +19,7 @@ def get_level(word):
         return 4, k
     elif 500 < k <= 10000:
         return 3, k
-    elif 10000 < k < 30000:
+    elif 10000 < k <= 30000:
         return 2, k
     elif k > 30000:
         return 1, k

@@ -1,5 +1,0 @@
-vlc
-tqdm
-pickle
-requests
-multiprocessing
