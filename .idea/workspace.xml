@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85f8332b-0403-497b-a499-9bbceee796d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/level.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
       <recent name="C:\Users\SS\Desktop\SummerProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.vlcPlay">
     <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SummerProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +179,8 @@
       <workItem from="1625207338937" duration="2041000" />
       <workItem from="1625384864369" duration="923000" />
       <workItem from="1625398595143" duration="1023000" />
+      <workItem from="1626842752691" duration="32000" />
+      <workItem from="1626842884106" duration="271000" />
     </task>
     <servers />
   </component>
@@ -217,10 +217,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="279" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625209303719" />
-    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1625398595682">
+    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1626842884543">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1625398595682" />
+    <state x="778" y="366" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1626842884543" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SummerProject$main.coverage" NAME="main Coverage Results" MODIFIED="1624974967284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

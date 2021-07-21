@@ -1,0 +1,20 @@
+https://stackoverflow.com/questions/60358947/does-nltk-provide-a-lib-to-measure-vocabulary-ordinary-level
+https://www.geeksforgeeks.org/python-vlc-mediaplayer-getting-current-subtitle/
+https://www.geeksforgeeks.org/vlc-module-in-python-an-introduction/
+https://www.programmersought.com/article/42007693123/
+https://stackoverflow.com/questions/46865017/inside-python-subtitles-to-player-pysrt-and-vlc
+https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+https://stackoverflow.com/questions/46861436/vlc-python-library
+https://zulko.github.io/moviepy/
+
+https://github.com/grubdragon/Random-Python-Scripts/
+https://grubdragon.github.io/2017/09/30/python-subs-easy/
+https://stackoverflow.com/questions/39258616/running-two-process-simultaneously
+
+https://www.programmersought.com/article/41024498379/
+
+Errors with ImageMagick
+https://www.reddit.com/r/moviepy/comments/568bvb/looking_for_tutorial_for_windows_setup_of_moviepy/
+https://www.programmersought.com/article/47165455833/
+https://stackoverflow.com/questions/40001494/moviepy-not-finding-imagemagick-on-win
+https://stackoverflow.com/questions/51928807/moviepy-cant-detect-imagemagick-binary-on-windows
