@@ -24,7 +24,7 @@ def get_level(word):
     elif k > 30000:
         return 1, k
     else:
-        return None, 0
+        return -1, 0
 
 # Test Drive Code
 

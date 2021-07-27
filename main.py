@@ -1,4 +1,4 @@
--# PYPI libraries
+# PYPI libraries
 import re  # for string manipulation
 import time  # to sleep the program
 from tqdm import tqdm  # to show progress bar while analysing .srt
