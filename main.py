@@ -143,6 +143,7 @@ if __name__ == '__main__':
 
     file_name = input('Enter .srt file name: ')
     video_name = input('Enter video name: ')
+
     lyric_list, delay_before, definitions, span_time = get_data(file_name, prof_level)
     time.sleep(3)
     p1 = Process(name='p1', target=play_video, args=(video_name, file_name))

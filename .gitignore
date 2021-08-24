@@ -112,4 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-word_db/enWikipediaDictTermCounts.pickle
+
+# My-Folders
+word_db/*
+sources/*
