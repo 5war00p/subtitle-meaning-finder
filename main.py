@@ -126,7 +126,7 @@ def display_subtitle(lyric_list, delay_before, definitions, span_time):
 if __name__ == '__main__':
 
     # files must be in current directory
-    # or else u give path like C:\\Users\\SS\\...
+    # or else u give path
 
     print('''---- English-Proficiency Levels --- \
             \n 1. Beginner 

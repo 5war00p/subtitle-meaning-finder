@@ -1,4 +1,3 @@
-https://stackoverflow.com/questions/60358947/does-nltk-provide-a-lib-to-measure-vocabulary-ordinary-level
 https://www.geeksforgeeks.org/python-vlc-mediaplayer-getting-current-subtitle/
 https://www.geeksforgeeks.org/vlc-module-in-python-an-introduction/
 https://www.programmersought.com/article/42007693123/
@@ -18,3 +17,10 @@ https://www.reddit.com/r/moviepy/comments/568bvb/looking_for_tutorial_for_window
 https://www.programmersought.com/article/47165455833/
 https://stackoverflow.com/questions/40001494/moviepy-not-finding-imagemagick-on-win
 https://stackoverflow.com/questions/51928807/moviepy-cant-detect-imagemagick-binary-on-windows
+
+
+https://www.quora.com/What-are-the-disadvantages-of-playing-a-subtitle-for-a-movie
+
+Sources
+https://stackoverflow.com/questions/60358947/does-nltk-provide-a-lib-to-measure-vocabulary-ordinary-level
+https://dictionaryapi.dev/
